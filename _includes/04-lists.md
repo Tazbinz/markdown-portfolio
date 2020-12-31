@@ -1,10 +1,12 @@
 ## Spheres
 1. Spiritual
-  - purpose
-  - journey
+    - purpose
+    - journey
+
 2. Relational
-  - love
-  - family
+- love
+- family
+
 3. Professional
   - local
   - global
