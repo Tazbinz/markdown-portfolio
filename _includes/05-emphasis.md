@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**I am** an *optimistic & resilient* being. **I will _succeed_ in the long run.** ***Challenges have taught me a lot.*** ~~I fall pray to my old bad habits.~~
