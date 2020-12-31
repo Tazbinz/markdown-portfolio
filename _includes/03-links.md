@@ -1,1 +1,1 @@
-https://github.com/Tazbinz
+[GitHub](https://github.com/Tazbinz)
